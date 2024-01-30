@@ -1,5 +1,5 @@
 import telebot
-bot = telebot.TeleBot('5103423151:AAFZ7o8Wd4O_LiDnTVpgWBYQgDxVqi11xDs')
+bot = telebot.TeleBot(<token>)
 from telebot import types  # для указание типов
 from aiogram.types import ReplyKeyboardRemove, \
     ReplyKeyboardMarkup, KeyboardButton, \
